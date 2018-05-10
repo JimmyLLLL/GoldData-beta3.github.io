@@ -1,0 +1,294 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-04 16:06:57
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:10:18
+*/
+#main-column
+{
+	position: absolute;
+	left: 35.8%;
+	top: 280px;
+	height: 1588px;
+	width: 732.25px;
+	border: 1px solid #E6E9ED; 
+}
+#tianxiezhequanxian-content
+{
+	position: absolute;
+	top: 1px;
+	left: 1px;
+	height: 46px;
+	width: 730.25px;
+	background-color: white;
+	border-bottom: 1px solid #E6E9ED; 
+}
+#cn-tianxiezhequanxian
+{
+	font-size: 15px;
+	position: absolute;
+	left: 23px;
+	top: -2px;
+}
+#first-neirong
+{
+	position: absolute;
+	width: 732.25px;
+	height: 327px;
+	top: 46px;
+	left: 0px;
+	border: 1px solid #E6E9ED; 
+	background-color: white;
+}
+#first-neirong-in
+{
+	position: absolute;
+	top: 12px;
+	left: 25px;
+	width: 680.25px;
+	height: 297px;
+}
+#cn-yixiaxianzhi
+{
+	position: absolute;
+	top: -9px;
+	left: 0px;
+	font-size: 12px;
+	color: #222222;
+}
+#cn-baocunshezhi
+{
+	position: absolute;
+	top: 267px;
+	left: 0px;
+	width: 106px;
+	height: 30px;
+	background-color: transparent;
+	color: #3099fb;
+	border: 1px solid #3099fb; 
+	border-radius: 2px;
+	cursor: pointer;
+}
+#cn-baocunshezhi:hover
+{
+	background-color: #3099fb;
+	color: white;
+}
+#cn-tianxiezheshenfen
+{
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	font-size: 12px;
+	color: #222222;
+}
+.radio-1
+{
+	border-radius: 2px;
+	background-color: transparent;
+	border: 1px solid #cccccc; 
+	cursor: pointer;
+	position: relative;
+	top: 70px;
+	margin-left: 8px;
+	left: -8px;
+	padding: 5px;
+}
+
+.radio-2
+{
+	padding: 5px
+}
+
+#cn-tianxiepinlv
+{
+	position: absolute;
+	top: 110px;
+	left: 0px;
+	font-size: 12px;
+	color: #222222;
+}
+.radio-1 label
+{
+	cursor: pointer;
+}
+.radio-2 label
+{
+	cursor: pointer;
+}
+.radio-2
+{
+	border-radius: 2px;
+	background-color: transparent;
+	border: 1px solid #cccccc; 
+	cursor: pointer;
+	position: absolute;
+	top: 149px;
+}
+#bt1
+{
+	left: 0px;
+}
+#bt2
+{
+	left: 97px;
+}
+#bt3
+{
+	left: 194px;
+}
+#assit-div
+{
+	width: 680.25px;
+	height: 60px;
+	position: absolute;
+	top: 190px;
+	border-bottom: 1px solid #E9E9E9;
+
+}
+#cn-suoyouren
+{
+	padding: 2px 14px;
+	background-color: #fff4bd;
+	position: absolute;
+	top: 205px;
+	text-align: center;
+	line-height: 23px;
+	color: #222222;
+}
+#second-neirong
+{
+	width: 730.25px;
+	height: 46px;
+	position: absolute;
+	top: 387px;
+	background-color: white;
+	border-bottom: 1px solid #E6E9ED;
+}
+#cn-tianxieshezhi
+{
+	position: absolute;
+	top: 0px;
+	left: 26px;
+	font-size: 14px;
+	color: #222222;
+}
+#second-neirong-main
+{
+	position: absolute;
+	top: 433px;
+	width: 730.25px;
+	height: 332px;
+	background-color: white;
+}
+#checkedbox-home
+{
+	position: absolute;
+	width: 680.25px;
+	height: 146px;
+	top: 14px;
+	left: 25px;
+}
+.myself-set
+{
+	color: #aab2bd;
+	position: relative;
+	left: 4px;
+}
+.checkedbox-1
+{
+	position: relative;
+	margin-top: 5px;
+}
+.checkedbox-1 i:hover
+{
+	cursor: help;
+}
+#middle-bottom
+{
+	width: 680.25px;
+	height:20px;
+	position: relative;
+	background-color: white;
+	top:-2px;
+	border-bottom: 1px solid #E6E9ED; 
+
+}
+#cn-xuanzeyuyan
+{
+	width: 680.25px;
+	height: 86px;
+	position: absolute;
+	top: 155px;
+	border-bottom: 1px solid #E6E9ED; 
+}
+#cn-caidan i
+{
+	cursor: help;
+}
+#cn-caidan
+{
+	position: absolute;
+	left: 0px;
+	top: -10px;
+
+}
+#select-yuyan
+{
+	width: 216px;
+	height: 30px;
+	position: absolute;
+	top: 23px;
+	border-radius: 5px;
+	background-color: white;
+	border: 1px solid #c3c9d1;
+}
+.jianrong
+{
+	vertical-align: text-bottom;
+    margin-bottom: 2px;
+}
+.checkedbox-1 label:hover
+{
+	cursor: pointer;
+}
+.cn-gou
+{
+	    content: '';
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    position: absolute;
+    left: 7px;
+    margin-top: 5px;
+    font-size: 14px;
+    top: 0px;
+
+}
+.zidingyi::before
+{
+	 content: '\e861';
+    font-family: 'gd-thin-icons';
+    margin-top: -2px;
+    border: 0;
+    top: 3px;
+    position: absolute;
+    left: 7px;
+    color: #3099fb;
+    font-size: 15px;
+    z-index: 3;
+}
+.jianrong
+{
+	display: none;
+}
+.radio-1
+{
+	padding: 5px 12px 5px 25px;
+	top: 77px;
+}
+.radio-2
+{
+	padding: 5px 12px 5px 25px;
+}

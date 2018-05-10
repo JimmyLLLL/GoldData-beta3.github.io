@@ -1,0 +1,123 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-05 19:40:05
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:11:39
+*/
+#fourth-neirong-top
+{
+	width: 730.25px;
+	height: 40px;
+	position: absolute;
+	top: 1368px;
+	left: 35.8%;
+	background-color: #e6e9ed;
+
+}
+#fourth-ul li 
+{
+	list-style-type: none;
+	float: left;
+}
+#fourth-ul li a
+{
+	text-decoration: none;
+	height: 40px;
+	position: absolute;
+	color: #222222;
+}
+
+#fourth-li1
+{
+	width: 136px;
+	top: 0px;
+	left: 0px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 14px;
+	background-color: white;
+
+}
+#fourth-li2
+{
+	width: 140px;
+	top: 0px;
+	left: 136px;
+	font-size: 14px;
+	line-height: 40px;
+	text-align: center;
+	background-color: #e6e9ed;
+}
+#fourth-neirong-main
+{
+	width: 730.25px;
+	height: 204px;
+	background-color: white;
+	position: absolute;
+	top: 1408px;
+	left: 35.8%;
+}
+#neirong-main-in
+{
+	width: 680.25px;
+	height: 124px;
+	position: absolute;
+	left: 25px;
+	top: 15px;
+	border-bottom: 1px solid #E6E9ED;
+}
+#main-in-text
+{
+	width: 216px;
+	height: 30px;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #999;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #999;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #999;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #999;
+}
+#fourth-p
+{
+	color: #858585;
+}
+#cn-shiyongbangzhu
+{
+	color: #359dfb;
+	text-decoration: none;
+}
+#cn-shilibiaodan
+{
+	position: absolute;
+	top: 71px;
+	left: 0px;
+}
+#cn-shilibiaodan a
+{
+	text-decoration: none;
+	color: #359dfb;
+}
+#fourth-baocunshezhi
+{
+	position: absolute;
+    top: 161px;
+    left: 25px;
+    width: 106px;
+    height: 30px;
+    background-color: transparent;
+    color: #3099fb;
+    border: 1px solid #3099fb;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#fourth-baocunshezhi:hover
+{
+  color: white;
+  background-color: #3099fb;
+}

@@ -1,0 +1,147 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-03 17:37:22
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:09:41
+*/
+#middle-conclusion
+{
+	position: absolute;
+	width: 100%;
+	height: 72px;
+	background-color: white;
+	border-bottom: 1px solid #E6E9ED;
+}
+#conclusion-content
+{
+	width: 995px;
+	height: 71px;
+	left: 22.6%;
+	position: absolute;
+}
+#conclusion-content-in
+{
+	width: 981px;
+	height: 29px;
+	position: absolute;
+	left: 7px;
+	top: 42px;
+}
+#cn-dangyuan
+{
+	font-size: 17px;
+	position: absolute;
+	left: 2px;
+	top: -9px;
+}
+.gd-icon-cog
+{
+	position: absolute;
+	left: 229px;
+	top: 10px;
+	font-size: 14px;
+	color: #aab2bd
+}
+#chose-item
+{
+	position: absolute;
+	width: 456px;
+	height: 29px;
+}
+.chose-a
+{
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+	position: relative;
+	left: 5px;
+	top: 2px;
+	padding: 4px;
+}
+.chose-a:nth-child(2)
+{
+	left: 20px;
+}
+.chose-a:nth-child(3)
+{
+	left: 40px;
+}
+.chose-a:nth-child(4)
+{
+	left: 60px;
+}
+.chose-a:nth-child(5)
+{
+	left: 80px;
+}
+.chose-a:nth-child(6)
+{
+	left: 100px;
+}
+.chose-a:nth-child(7)
+{
+	left: 120px;
+}
+.chose-a:nth-child(4)
+{
+	border-bottom : 2px solid #3099fb; 
+	color:#3099FB;
+}
+.gd-icon-publish
+{
+	position: absolute;
+	font-size: 21px;
+	left: 954px;
+	top: -1px;
+
+}
+.gd-icon-qrcode
+{
+	position: absolute;
+	font-size: 21px;
+	left: 922px;
+	top: 0px;
+
+}
+.gd-icon-copy
+{
+	position: absolute;
+	font-size: 20px;
+	left: 890px;
+	top: 0px;
+
+}
+#cn-fabu-kuang
+{
+	outline: none;
+	position: absolute;
+	left: 692px;
+	top: 1px;
+	width: 180px;
+	height: 24px;
+}
+#cn-fabubiaodan
+{
+	position: absolute;
+	font-size: 10px;
+	left: 640px;
+	top: -7px;
+	color: black;
+}
+#cn-baocunshezhi-2 {
+    position: absolute;
+    top: 263px;
+    left: 0px;
+    width: 106px;
+    height: 30px;
+    background-color: transparent;
+    color: #3099fb;
+    border: 1px solid #3099fb;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#cn-baocunshezhi-2:hover
+{
+	background-color: #3099fb;
+	color: white;
+}

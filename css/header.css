@@ -1,0 +1,141 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-03 13:38:28
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:08:52
+*/
+#header  /*头部最底层*/
+{
+	height: 48px;
+	width: 100%;
+	background-color:#333745;
+	font-size: 17px;
+	line-height: 48px;
+}
+#header_Container /*头部最底层的上一层容器*/
+{
+	width: 995px;
+	height: 48px;
+	position: relative;
+	left: 22.4%;
+}
+.brand  /*金数据大logo和字体*/
+{
+	color: #FF8533;
+}
+.gd-icon-logo /*金数据图表logo*/
+{
+	position: absolute;
+	left: 5px;
+	font-size: 29px;
+}
+#logo-king /*金数据文字*/
+{
+	position: absolute;
+	left: 40px;
+	color: #FF8533;
+	top: 0px;
+}
+#cn-biaodan
+{
+position: absolute;
+left: 120px;
+	text-decoration: none;
+	color: white;
+}
+#cn-yingyong
+{
+	position: absolute;
+	left: 180px;
+		text-decoration: none;
+		color: #aab2bd;
+}
+#cn-yingyong:hover
+{
+	color: white;
+}
+#cn-sanjiaoxing
+{
+	position: absolute;
+	left: 978px;
+	color: white;
+	font-size: 2px;
+    text-decoration: none;
+}
+#people-img
+{
+	position: absolute;
+	height: 24px;
+	width: 24px;
+	border-radius: 50%;
+	top: 12px;
+	left: 945px;
+}
+.gd-icon-bell
+{
+color: #aab2bd;
+position: absolute;
+left: 912px;
+font-size: 19px;
+}
+.gd-icon-bell:hover
+{
+	color: white;
+}
+#cn-taocangoumai
+{
+	position: absolute;
+	left: 825px;
+	color: #aab2bd;
+	text-decoration: none;
+}
+#cn-taocangoumai:hover
+{
+	color: white;
+}
+#question-icon
+{
+	position: absolute;
+	color: #aab2bd;
+	left: 795px;
+	font-size: 19px;
+}
+#question-icon:hover
+{
+	color: white;
+}
+#search-input
+{
+	background-color: #242730;
+	position: absolute;
+	width: 261.53px;
+	height: 24px;
+	top: 12px;
+	left: 247px;
+	border: none;
+	outline: none;
+	border-radius: 30px;
+	transition: 0.2s;
+}
+.gd-icon-search
+{
+	color: #aab2bd;
+	position: absolute;
+	left: 120px;
+	font-size: 14px;
+	transition: 0.2s;
+	top: -11px;
+}
+#search-input-in
+{
+	position: absolute;
+	width: 239.53px;
+	height: 22px;
+	top: 0px;
+	left: 20px;
+	border: none;
+	outline: none;
+	border-radius: 30px;
+	transition: 0.2s;
+	background-color: #242730;
+}

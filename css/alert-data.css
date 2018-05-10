@@ -1,0 +1,75 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-03 16:14:33
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:09:16
+*/
+#alert-data
+{
+	height: 140px;
+	width: 100%;
+	border-bottom: 1px solid #E6E9ED;
+	background-color: white;
+}
+#alert-content
+{
+	height: 119px;
+	width: 100%;
+	top: 10px;
+	position: relative;
+
+}
+#alert-content-in
+{
+	position: absolute;
+	width: 981px;
+	height: 119px;
+	left: 22.6%;
+	background: url(../img/alert-data.png) no-repeat;
+	background-size: 88px;
+	background-position: -4px 4px;
+}
+#alert-word-head
+{
+	font-size: 16px;
+	position: absolute;
+	left: 90px;
+	top: -15px;
+}
+#alert-word-main
+{
+	position: absolute;
+	left: 90px;
+	top: 18px;
+	font-size: 11px;
+}
+#contact-us
+{
+	text-decoration: none;
+	color: #3099fb;
+}
+#contact-us:hover
+{
+	color: blue;
+}
+#if-help
+{
+	color: #858585;
+}
+#cn-shengjitaocan
+{
+	position: absolute;
+	width: 106px;
+	height: 30px;
+	background-color: #3099fb;
+	color: white;
+	left: 90px;
+	top: 89px;
+	border:none;
+	outline: none;
+	cursor: pointer;
+}
+#cn-shengjitaocan:hover
+{
+	background-color: blue;
+}

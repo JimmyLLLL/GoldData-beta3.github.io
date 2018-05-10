@@ -1,0 +1,125 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-05 15:44:28
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:11:06
+*/
+.checkedbox-2 label:hover
+{
+	cursor: pointer;
+}
+#third-neirong
+{
+	width: 730.25px;
+	height: 46px;
+	position: absolute;
+	left: 35.8%;
+	top: 1060px;
+	border-bottom: 1px solid #E6E9ED;
+	background-color: white;
+}
+#cn-biaodan-open-close:hover
+{
+	cursor: help;
+}
+#cn-biaodan-open-close
+{
+	font-size: 15px;
+	position: absolute;
+	left: 23px;
+	top: -2px;
+}
+.checkedbox-2 i:hover
+{
+	cursor: help;
+}
+#third-neirong-main
+{
+	width: 730.25px;
+	height: 248px;
+	background-color: white;
+	position: absolute;
+	top: 1106px;
+	left: 35.8%;
+}
+
+#btn-dot
+{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	background-color: white;
+	border-radius: 100%;
+	left: 26px;
+	top: 1px;
+}
+#cn-yikaiqi
+{
+	position: absolute;
+	left: 81px;
+	top: 19px;
+	font-size: 13px;
+}
+#main-main
+{
+	width: 680.25px;
+	height: 191px;
+	position: absolute;
+	left: 25px;
+	top: 42px;
+}
+#third-neirong-bottom
+{
+	width: 680.25px;
+	height: 20px;
+	border-bottom: 1px solid #E6E9ED;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+#cn-yikaiqi
+{
+	width: 125.5px;
+	height: 26px;
+	background-color: #fff4bd;
+	position: absolute;
+	top: 46px;
+	left: 0px;
+	line-height: 26px;
+}
+#third-checkedbox-home
+{
+	position: absolute;
+	top: 112px;
+	left: 22px;
+}
+.checkedbox-2
+{
+	position: relative;
+	margin-top: 6px;
+}
+#third-btn
+{
+	position: absolute;
+    top: 203px;
+    left: 25px;
+    width: 106px;
+    height: 30px;
+    background-color: transparent;
+    color: #3099fb;
+    border: 1px solid #3099fb;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#third-btn:hover
+{
+background-color: #3099fb;
+color: white;
+}
+#cn-yiguanbi
+{
+	position: absolute;
+	top: 23px;
+	left: 83px;
+	font-size: 10px;
+}

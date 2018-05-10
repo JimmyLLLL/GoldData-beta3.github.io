@@ -1,0 +1,95 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-05 21:28:23
+* @Last Modified by:   Venus-Lin
+* @Last Modified time: 2018-05-10 13:11:53
+*/
+#fifth-neirong-top
+{
+	width: 730.25px;
+	height: 40px;
+	position: absolute;
+	top: 1626px;
+	left: 35.8%;
+	background-color: #e6e9ed;
+}
+#fifth-ul li 
+{
+	list-style-type: none;
+	float: left;
+}
+#fifth-ul li a
+{
+	text-decoration: none;
+	height: 40px;
+	position: absolute;
+	color: #222222;
+}
+
+#fifth-li1
+{
+	width: 204px;
+	top: 0px;
+	left: 0px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 14px;
+	background-color: white;
+
+}
+#fifth-li2
+{
+	width: 166px;
+	top: 0px;
+	left: 204px;
+	font-size: 14px;
+	line-height: 40px;
+	text-align: center;
+	background-color: #e6e9ed;
+}
+#fifth-neirong-main
+{
+	width: 730.25px;
+	height: 179px;
+	background-color: white;
+	position: absolute;
+	top: 1666px;
+	left: 35.8%;
+}
+#main-in-text-1
+{
+	width: 216px;
+	height: 30px;
+}
+#neirong-main-in-1
+{
+	width: 680.25px;
+	height: 99px;
+	position: absolute;
+	left: 25px;
+	top: 15px;
+	border-bottom: 1px solid #E6E9ED;
+
+}
+#fifth-p
+{
+	color: #858585;
+}
+#fifth-baocunshezhi
+{
+	position: absolute;
+    top: 135px;
+    left: 25px;
+    width: 106px;
+    height: 30px;
+    background-color: transparent;
+    color: #3099fb;
+    border: 1px solid #3099fb;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#fifth-baocunshezhi:hover
+{
+  color: white;
+  background-color: #3099fb;
+}

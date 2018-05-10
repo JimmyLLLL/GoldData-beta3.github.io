@@ -1,0 +1,60 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-07 19:19:29
+* @Last Modified by:   JimmyLLLL
+* @Last Modified time: 2018-05-07 21:53:07
+*/
+.al-toggle-button{
+            appearance: none;
+            -webkit-appearance: none;
+            -ms-appearance: none;
+            -o-appearance: none;
+            position: relative;
+            width: 54px;
+            height: 27px;
+            background: #dfdfdf;
+            border-radius: 16px;
+            border: 1px solid #dfdfdf;
+            outline: 0;
+            box-sizing: border-box;
+        }
+        .al-toggle-button:checked{
+            border-color: #72dc5f;
+            background-color: #72dc5f;
+        }
+        .al-toggle-button:before, .al-toggle-button:after{
+            content: " ";
+            position: absolute;
+            top: 0;
+            left: 0px;
+            height: 25px;
+            border-radius: 15px;
+            transition: transform 0.3s, -webkit-transform 0.3s,-ms-transform 0.3s,-o-transform 0.3s;
+        }
+        .al-toggle-button:before{
+            width: 52px;
+            background-color: #fdfdfd;
+        }
+        .al-toggle-button:after{
+            width: 25px;
+            background-color: white;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+        }
+        .al-toggle-button:checked:before{
+            transform: scale(0);
+            -webkit-transform: scale(0);
+            -ms-transform: scale(0);
+            -o-transform: scale(0);
+        }
+        .al-toggle-button:checked:after{
+            transform: translateX(27px);
+            -webkit-transform: translateX(27px);
+            -ms-transform: translateX(27px);
+            -o-transform: translateX(27px);
+        }
+        .ios-btn-myself
+        {
+        	position: absolute;
+        	top: 15px;
+        	left: 22px;
+        }
